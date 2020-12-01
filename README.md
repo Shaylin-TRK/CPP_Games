@@ -7,14 +7,21 @@ casino games running through the Windows Command Prompt Console.<br>
 <ul>
   <li>
     BlackJack<br>
+    *note that this is not yet complicated.
     
-    Reccomended to use Windows 10 though they should work at least as <br>
-    far back as Windows 7.<br>
+    Reccomended to use Windows 10 though they should work at least as 
+    far back as Windows 7.
     
     An .exe file is already included in Console/Blackjack/Version 1.2/
-    For the most simple setup simply download the .zip file and copy<br>
-    BlackJack.exe to your hardrive (your desktop may be best) <br>
+    For the most simple setup simply download the .zip file and copy
+    BlackJack.exe to your hardrive (your desktop may be best) 
     
-    When first opening the file 
+    When opening the application you will be greated with a login menu.
+    Type "_new" to be walked through creating a new profile, which will
+    be saved in the directory "./BJ_Profiles". If no directory exist
+    with this name one will be created.
+    
+    If you have any suggestions, ideas, or feedback, feel free to open
+    an issue. Thankyou!
   </li>
 </ul>
