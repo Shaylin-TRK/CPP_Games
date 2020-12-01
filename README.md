@@ -22,6 +22,6 @@ casino games running through the Windows Command Prompt Console.<br>
     with this name one will be created.
     
     If you have any suggestions, ideas, or feedback, feel free to open
-    an issue. Thank you!
+    an issue or create a pull request. Thank you!
   </li>
 </ul>
