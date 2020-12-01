@@ -7,4 +7,6 @@ casino games running through the Windows Command Prompt Console.<br>
 Reccomended to use Windows 10 though it should work at least as <br>
 far back as Windows 7.<br>
 <br>
-An .exe file is already included 
+An .exe file is already included in Console/Blackjack/Version 1.2/
+For the most simple setup simply download the .zip file and copy<br>
+BlackJack.exe
