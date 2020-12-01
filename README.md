@@ -7,3 +7,4 @@ casino games running through the Windows Command Prompt Console.<br>
 Reccomended to use Windows 10 though it should work at least as <br>
 far back as Windows 7.<br>
 <br>
+An .exe file is already included 
