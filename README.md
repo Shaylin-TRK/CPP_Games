@@ -9,7 +9,7 @@ casino games running through the Windows Command Prompt Console.<br>
     BlackJack<br>
     *note that this is not yet completed
     
-    Reccomended to use Windows 10 though my applications should work at 
+    Recommended to use Windows 10 though my applications should work at 
     least as far back as Windows 7.
     
     An .exe file is already included in "Console/Blackjack/Version 1.2/"
@@ -22,6 +22,6 @@ casino games running through the Windows Command Prompt Console.<br>
     with this name one will be created.
     
     If you have any suggestions, ideas, or feedback, feel free to open
-    an issue. Thankyou!
+    an issue. Thank you!
   </li>
 </ul>
